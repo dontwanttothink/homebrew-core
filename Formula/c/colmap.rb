@@ -19,6 +19,7 @@ class Colmap < Formula
   depends_on "ceres-solver"
   depends_on "cgal"
   depends_on "eigen"
+  depends_on "faiss"
   depends_on "flann"
   depends_on "freeimage"
   depends_on "gflags"
